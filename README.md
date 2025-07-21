@@ -62,7 +62,7 @@ Imprimindo o número 4
 **Ismael dos Santos Costa**  
 Estudante de Sistemas de Informação na UFOP  
 Curso: Trilha Java Básico - DIO  
-[LinkedIn](https://www.linkedin.com)
+[LinkedIn](https://www.linkedin.com/in/ismael-dos-santos-costa-ti/)
 
 ---
 
